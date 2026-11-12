@@ -47,15 +47,15 @@ Python 3 ile ayrı geçici klasörlerde **13 otomatik test** çalıştırıldı 
 
 **Normal randevu ekleme (gerçek terminal çıktısından oluşturulan görsel; fotoğraf değildir):**
 
-![Normal randevu](gorseller/terminal_normal.png)
+![Normal randevu](terminal_normal.png)
 
 **Mesai saati dışında randevu (gerçek terminal çıktısından oluşturulan görsel; fotoğraf değildir):**
 
-![Hatalı randevu](gorseller/terminal_hata.png)
+![Hatalı randevu](terminal_hata.png)
 
 ### Akış şeması
 
-![Programın akış şeması](gorseller/akis_semasi.png)
+![Programın akış şeması](akis_semasi.png)
 
 ## YZ kullanım beyanı
 
